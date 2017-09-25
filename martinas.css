@@ -1,1 +1,12 @@
-martinas.css
+ul {
+	list-style-image: url('glitterrose.gif');
+	
+}
+li {
+	vertical-align: middle;
+}
+
+body {
+	padding-left: 300px;
+}
+
