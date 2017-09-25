@@ -1,12 +1,26 @@
-ul {
-	list-style-image: url('glitterrose.gif');
-	
-}
+
 li {
 	vertical-align: middle;
 }
 
-body {
-	padding-left: 300px;
+h4 {
+    text-shadow: 3px 2px blue;
 }
 
+body {
+	background-image: url('epicspace.gif');
+	background-size: cover;
+	color: white; 
+	text-align: center;
+	max-width: 400px;
+	margin: 0 auto;
+
+}
+
+p {
+	margin-top: 50px;
+}
+
+img {
+	margin-top: 100px
+}
